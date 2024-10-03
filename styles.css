@@ -1,0 +1,42 @@
+#image{
+  max-width:100%;
+  height:auto;
+  display:block;
+  align:center;
+}
+body{     background-color:#000;
+color:white;
+text-align:center;
+padding:0;
+margin:0;
+font-family:Arial, sans-serif;
+
+}
+#main{
+ max-width:900px;
+ margin:0 auto;
+ padding:20;
+}
+#img-div{
+  margin:20px 0;
+}
+#img-caption{
+  margin-top:10px;
+  font-style:italic;
+}
+a#tribute-link{
+color:#ADD8E6;
+text-decoration:none;
+}
+a#tribute-link:hover{
+  text-decoration:underline;
+}
+div#intro, div#cont, div#third, div#fourth, div#fifth, div#sixth, div#seventh, div#eighth, div#ninth, div#tenth, div#eleventh, div#twelveth{
+margin:20px 0;
+padding:10px;
+}
+h1{
+  font-size:24px;
+  color:#ADD8E6;
+  margin-top:20px;
+}
